@@ -98,6 +98,7 @@ CoreOS | https://coreos.com/ |
 Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
+[CyberArk](/company-profiles/cyberark.md) | https://www.cyberark.com | Worldwide in [countries with offices](https://www.cyberark.com/company/#office-locations)
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
